@@ -10,11 +10,5 @@ sources:
         description: ""
         columns:
           - name: first_name
-            meta:
-              masking_policy: plcy_sch_dbt_test_st
           - name: last_name
-            meta:
-              masking_policy: plcy_sch_dbt_test_st
           - name: email
-            meta:
-              masking_policy: plcy_st

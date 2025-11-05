@@ -1,0 +1,7 @@
+packages:
+  - local: ../parent_1
+    name: parent_1
+  - name: dbt_utils
+    package: dbt-labs/dbt_utils
+    version: 1.3.0
+sha1_hash: 892d9644942cb6e63c6df0a25216a64fb4b2d2e0

@@ -1,3 +1,2 @@
 packages:
-  - git: "https://github.com/oodata-de/dbt_parent_dual.git"
-    revision: main
+  - local: ../parent_1
